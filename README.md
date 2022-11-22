@@ -21,7 +21,7 @@ The objective of this project is to start the game Rock, paper, scissors, lizard
 
 ```bash
 # Clone the project
-$ git clone 
+$ git clone https://github.com/guilhermeej/rock_papper_and_scissor
 ```
 
 ```bash
