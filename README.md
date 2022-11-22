@@ -33,3 +33,7 @@ $ npm install
 # Install the dependencies, if use yarn
 $ yarn install
 ```
+
+# Code Running
+
+![expapper](https://user-images.githubusercontent.com/114784206/203220600-8bb5df69-48ab-40af-9c9d-486d00d13632.gif)
